@@ -12,9 +12,7 @@ This assignment was to use the pandas library to analyze a dataset of student ma
 ![dataframe1](ReadMeImages/dataframe1.png)
 ![dataframe2](ReadMeImages/dataframe2.png)
 
-## Homework Introduction
-
-![Education](Images/education.jpg)
+## Assignment Details
 
 You have been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your responsibility is to aggregate the data to and showcase obvious trends in school performance.
 
